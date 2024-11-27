@@ -1,6 +1,7 @@
-# Discord Activity: Getting Started Guide
+Trying to run a WebGPU game in a discord activity.
 
-This template is used in the [Building An Activity](https://discord.com/developers/docs/activities/building-an-activity) tutorial in the Discord Developer Docs.
-
-Read more about building Discord Activities with the Embedded App SDK at [https://discord.com/developers/docs/activities/overview](https://discord.com/developers/docs/activities/overview).
-
+Resources:
+- Getting Started with Discord activities: https://discord.com/developers/docs/activities/building-an-activity
+- Your first WebGPU app: https://codelabs.developers.google.com/your-first-webgpu-app
+- Cloudflared reverse proxy: https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-local-tunnel/
+- Cloudflare Workers: https://developers.cloudflare.com/workers/get-started/dashboard/
