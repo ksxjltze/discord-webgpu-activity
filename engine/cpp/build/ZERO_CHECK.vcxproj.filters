@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\discord-webgpu-activity\engine\cpp\build\CMakeFiles\c8d432b6eaf4b9e815435d55c3b120f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3C159A0F-D443-3277-ACA4-67F5C9307A14}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
